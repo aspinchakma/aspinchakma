@@ -1,11 +1,10 @@
+#### Hi there, I'm Aspin Chakma
+
 # I'm a Junior Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **aspinchakma2019@gmail.com**
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
-
-
 ## Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/)
@@ -42,10 +41,5 @@
 * MEDISINE Code Link: (https://github.com/aspinchakma/MEDISINE) <br/>
 etc...
 
-
-
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aspinchakma)  
-
-![GitHub metrics](https://metrics.lecoq.io/aspinchakma)  
 
