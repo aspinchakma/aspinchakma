@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aspin Chakma
 ![Profile views](https://gpvc.arturio.dev/aspinchakma)  
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 ## I'm a Junior Developer!!
 
