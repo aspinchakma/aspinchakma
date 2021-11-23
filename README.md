@@ -39,7 +39,7 @@
 * FOODOTA_SERVER Side Code link: (https://github.com/aspinchakma/FOODOTA_SERVER)
 ### [MEDISINE](https://pharmacy-60bec.web.app/)
 * MEDISINE Code Link: (https://github.com/aspinchakma/MEDISINE) <br/>
-etc...
+etc....
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aspinchakma)  
 
