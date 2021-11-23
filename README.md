@@ -11,9 +11,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspinchakma&show_icons=true&theme=algolia)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspinchakma)](https://github.com/aspinchakma/github-readme-stats)
-
-
 
 ### Connect with me:
 
