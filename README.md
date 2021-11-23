@@ -36,10 +36,10 @@
 * MAROTIC_CLIENT Side Code Link : (https://github.com/aspinchakma/MAROTIC_CLIENT)
 * MAROTIC_SERVER Side code Link : (https://github.com/aspinchakma/MAROTIC_SERVER)
 2.[FOODOTA](https://foodota-c3eb8.web.app/)
-- FOODOTA_CLIENT Side Code Link: (https://github.com/aspinchakma/FOODOTA_CLIENT)
-- FOODOTA_SERVER Side Code link: (https://github.com/aspinchakma/FOODOTA_SERVER)
+* FOODOTA_CLIENT Side Code Link: (https://github.com/aspinchakma/FOODOTA_CLIENT)
+* FOODOTA_SERVER Side Code link: (https://github.com/aspinchakma/FOODOTA_SERVER)
 3.[MEDISINE](https://pharmacy-60bec.web.app/)
-- MEDISINE Code Link: (https://github.com/aspinchakma/MEDISINE) 
+* MEDISINE Code Link: (https://github.com/aspinchakma/MEDISINE) 
 etc...
 
 
