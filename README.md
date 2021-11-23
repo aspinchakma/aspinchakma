@@ -1,33 +1,6 @@
 ### Hi there 👋, I'm Aspin Chakma
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aspinchakma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aspinchakma/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aspinchakma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aspinchakma)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspinchakma)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aspinchakma)  
-
-![GitHub metrics](https://metrics.lecoq.io/aspinchakma)  
-
-![Profile views](https://gpvc.arturio.dev/aspinchakma)  
-
-
-
-
-
-
-
-
-
-### Hi there 👋, I'm Aspin Chakma
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 ## I'm a Junior Developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -64,6 +37,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <br />
 <br />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aspinchakma)  
+
+![GitHub metrics](https://metrics.lecoq.io/aspinchakma)  
+
+![Profile views](https://gpvc.arturio.dev/aspinchakma)  
+
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
