@@ -3,7 +3,9 @@
 ## I'm a Junior Developer!!
 
 - 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning **Sass**
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- 📫 How to reach me **aspinchakma2019@gmail.com**
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
