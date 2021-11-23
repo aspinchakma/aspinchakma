@@ -32,11 +32,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspinchakma&show_icons=true&theme=algolia)
 
 ## There Are Some Project List:
-1.[MAROTIC](https://marotic-7e06a.web.app/)<br/>
+1.[MAROTIC](https://marotic-7e06a.web.app/)
 * MAROTIC_CLIENT Side Code Link : (https://github.com/aspinchakma/MAROTIC_CLIENT)
 * MAROTIC_SERVER Side code Link : (https://github.com/aspinchakma/MAROTIC_SERVER)
-<br/>
-2.[FOODOTA](https://foodota-c3eb8.web.app/)<br/>
+2.[FOODOTA](https://foodota-c3eb8.web.app/)
 - FOODOTA_CLIENT Side Code Link: (https://github.com/aspinchakma/FOODOTA_CLIENT)
 - FOODOTA_SERVER Side Code link: (https://github.com/aspinchakma/FOODOTA_SERVER)
 3.[MEDISINE](https://pharmacy-60bec.web.app/)
