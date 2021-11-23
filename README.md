@@ -1,10 +1,12 @@
 ### Hi there, I'm Aspin Chakma
 
-# I'm a Junior Developer!!
-- 🌱 I’m currently learning everything 🤣
+# I'm a Web Developer!!
+- 💻 I’m currently learning everything 💪
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **aspinchakma2019@gmail.com**
 - ⚡ Fun fact: I love to draw and play guitar / drums
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspinchakma&show_icons=true&theme=algolia)
 ## Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>](https://www.w3schools.com/css/)
@@ -24,11 +26,9 @@
 ## Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='26px'>](https://github.com/aspinchakma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='26px'>](https://www.linkedin.com/in/aspinchakma/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='26px'>](https://www.facebook.com/aspinchakma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='26px'>](https://twitter.com/aspinchakma) 
-<br/>
-![Profile views](https://gpvc.arturio.dev/aspinchakma)  
 <br/> 
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspinchakma&show_icons=true&theme=algolia)
+
 
 ## There Are Some Project List:
 ### [MAROTIC](https://marotic-7e06a.web.app/)
