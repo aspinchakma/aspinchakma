@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Aspin Chakma
+![Profile views](https://gpvc.arturio.dev/aspinchakma)  
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ## I'm a Junior Developer!!
@@ -40,7 +41,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/aspinchakma)  
 
-![Profile views](https://gpvc.arturio.dev/aspinchakma)  
+
 
 
 [website]: https://codeSTACKr.com
