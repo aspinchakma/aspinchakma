@@ -57,58 +57,115 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🕰️ Marotic — Online Watch Shop
+## 🍦 Icy Tales — Modern React Single Page Application
 
-🔗 Live: https://marotic-7e06a.web.app
+**🔗 Links** | [🌐 Live Preview](https://icy-tales.netlify.app/) | [💻 Source Code](https://github.com/aspinchakma/icy-tales)
 
-#### Key Features
+### ✨ Key Features
 
-- Authentication with Firebase
+- Dynamic product and blog routing with React Router
+- Product & blog details pages powered by dynamic data
+- Fully functional shopping cart system
+- Increase, decrease, remove, and clear cart items
+- Persistent cart data using Local Storage
+- Search validation with user-friendly feedback
+- Graceful error handling and custom 404 pages
+- Mobile-first responsive design
+
+### 🛠 Tech Stack
+
+`React` `React Router` `Tailwind CSS` `DaisyUI` `React Toastify` `React Icons`
+
+---
+
+## 🛒 Gadget Heaven — Modern E-commerce Platform
+
+**🔗 Links** | [🌐 Live Preview](https://gadget-heaven-gadget.netlify.app/) | [💻 Source Code](https://github.com/aspinchakma/gadget-heaven)
+
+### ✨ Key Features
+
+- Multi-page responsive e-commerce experience
+- Product details page with dynamic routing
+- Add-to-cart and wishlist management
+- Real-time cart and wishlist counters
+- Persistent data storage using Local Storage
+- Automatic navigation after cart actions
+- Purchase flow with cart clearing functionality
+- Skeleton loading screens for enhanced UX
+- Custom 404 page and error handling
+
+### 🎯 Highlights
+
+- Wishlist and Cart stay synchronized automatically
+- Data remains available after page refresh
+- Dynamic UI updates without page reload
+- Mobile-first responsive design
+- Improved user experience with loading skeletons
+
+### 🛠 Tech Stack
+
+`React`
+`React Router`
+`JavaScript`
+`Tailwind CSS`
+`DaisyUI`
+`Local Storage`
+
+---
+
+## ⌚ Marotic — Online Watch Shop
+
+**🔗 Links** | [🌐 Live Preview](https://marotic-7e06a.web.app/) | [💻 Client Code](https://github.com/aspinchakma/MAROTIC_CLIENT) | [⚙️ Server Code](https://github.com/aspinchakma/MAROTIC_SERVER)
+
+### ✨ Key Features
+
+- Role-based Admin & User Dashboard
+- Product Management System
+- Secure Firebase Authentication
+- Order Management Functionality
+- Responsive User Interface
+
+### 🛠 Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `Firebase` `Bootstrap`
+
+---
+
+## 🍔 Foodota — Online Food Delivery Platform
+
+**🔗 Links** | [🌐 Live Preview](https://foodota-c3eb8.web.app/) | [💻 Client Code](https://github.com/aspinchakma/FOODOTA_CLIENT) | [⚙️ Server Code](https://github.com/aspinchakma/FOODOTA_SERVER)
+
+### ✨ Key Features
+
+- Restaurant Management System
+- Food Ordering Workflow
+- User Authentication
 - Admin Dashboard
-- Product Management
-- Order System
 - Responsive Design
 
-#### Tech Used
+### 🛠 Tech Stack
 
-React • Node.js • Express • MongoDB • Firebase
-
----
-
-### 🍔 Foodota — Online Food Delivery Platform
-
-🔗 Live: https://foodota-c3eb8.web.app
-
-#### Key Features
-
-- Restaurant Management
-- User Authentication
-- Food Ordering
-- Admin Dashboard
-- Product Management
-
-#### Tech Used
-
-React • Node.js • Express • MongoDB • Firebase
+`React` `Node.js` `Express.js` `MongoDB` `Firebase` `Material UI`
 
 ---
 
-### 💊 Medicine — Online Pharmacy Platform
+## 💊 Medicine — Online Pharmacy Platform
 
-🔗 Live: https://pharmacy-60bec.web.app
+**🔗 Links** | [🌐 Live Preview](https://pharmacy-60bec.web.app/) | [💻 Client Code](https://github.com/aspinchakma/MEDISINE)
 
-#### Key Features
+### ✨ Key Features
 
-- Medicine Ordering System
-- Authentication
-- Responsive Interface
-- Real-Time Database
+- Online Medicine Ordering
+- Authentication System
+- Responsive Design
+- Easy Product Browsing
+- Accessible Anywhere
 
-#### Tech Used
+### 🛠 Tech Stack
 
-React • Node.js • Express • MongoDB • Firebase
+`React` `Node.js` `Express.js` `MongoDB` `Firebase` `Material UI`
 
 ---
 
@@ -180,6 +237,9 @@ const aspin = {
 };
 ```
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ---
 
 ### Thanks for visiting my profile 🚀
