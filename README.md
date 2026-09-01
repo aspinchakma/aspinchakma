@@ -233,19 +233,15 @@ const aspin = {
 };
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 ---
 
-  <!-- Glow / Cyberpunk Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=header&text=Contribution%20Matrix&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7f00ff&height=160&section=header&text=%20Aspin's%20Contribution%20Matrix&fontSize=32&fontColor=ffffff&animation=color&fontAlignY=38" width="100%" />
 
   <!-- Snake Container with Dark/Light Mode Auto-Switching -->
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/snake-purple.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/snake.svg">
 </picture>
 
-### Thanks for visiting my profile 🚀
+<h4 align="center">Thanks for visiting my profile 🚀</h4>
