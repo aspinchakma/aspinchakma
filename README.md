@@ -96,14 +96,6 @@
 - Skeleton loading screens for enhanced UX
 - Custom 404 page and error handling
 
-### 🎯 Highlights
-
-- Wishlist and Cart stay synchronized automatically
-- Data remains available after page refresh
-- Dynamic UI updates without page reload
-- Mobile-first responsive design
-- Improved user experience with loading skeletons
-
 ### 🛠 Tech Stack
 
 `React`
@@ -169,71 +161,11 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aspinchakma&show_icons=true&theme=tokyonight" />
-</p>
+### 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspinchakma&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspinchakma&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
----
-
-## 💡 Development Philosophy
-
-```text
-Write clean code.
-Build real solutions.
-Keep learning.
-Stay consistent.
-```
-
----
-
-## 🎯 Current Goals
-
-- Learn Advanced TypeScript
-- Improve Backend Development Skills
-- Build Production-Ready MERN Applications
-- Master System Design Fundamentals
-- Contribute to Open Source
-
----
-
-## 📚 Learning Journey
-
-```text
-2024 → Started Web Development
-2025 → Learned React & Firebase
-2026 → Building Full Stack MERN Applications
-2027 Goal → Software Engineer
-```
-
----
-
-## ⚡ Fun Fact
-
-```javascript
-const aspin = {
-  code: ["JavaScript", "TypeScript"],
-  frontend: ["React", "Tailwind"],
-  backend: ["Node.js", "Express"],
-  database: ["MongoDB"],
-  challenge: "Building impactful web applications",
-};
-```
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7f00ff&height=160&section=header&text=%20Aspin's%20Contribution%20Matrix&fontSize=32&fontColor=ffffff&animation=color&fontAlignY=38" width="100%" />
 
