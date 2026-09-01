@@ -1,9 +1,15 @@
-# Hi there 👋 I'm Aspin Chakma
+<p align="center">
+  <img src="./asset/profile-banner.png" alt="Aspin Chakma — Full-Stack MERN Developer" width="100%" />
+</p>
 
-### MERN Stack Developer | React Enthusiast | Lifelong Learner
+<h1 align="center">Hi, I'm Aspin Chakma 👋</h1>
+
+<h3 align="center">
+  Full-Stack MERN Developer · React Enthusiast · Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+MERN+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;Building+Modern+%26+Scalable+Web+Applications;Turning+Ideas+Into+Interactive+Experiences;Always+Learning%2C+Building+%26+Improving" alt="Typing SVG" />
 </p>
 
 ---
