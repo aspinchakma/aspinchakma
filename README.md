@@ -237,26 +237,15 @@ const aspin = {
   <img src="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 ---
-<div align="center">
 
   <!-- Glow / Cyberpunk Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=header&text=Contribution%20Matrix&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<br/><br/>
-
   <!-- Snake Container with Dark/Light Mode Auto-Switching -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/github-snake-cyberpunk.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/github-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/github-snake.svg" width="100%">
-  </picture>
-
-  <br/>
-
-  <!-- Status Bar Footer -->
-  <img src="https://img.shields.io/badge/Status-Live%20Eating%20Commits-00f2fe?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sync-Every%206%20Hours-00c853?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-</div>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/snake-purple.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspinchakma/aspinchakma/output/snake.svg">
+</picture>
 
 ### Thanks for visiting my profile 🚀
