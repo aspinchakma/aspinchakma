@@ -1,14 +1,14 @@
-name: Generate Snake
+name: Generate Dragon Contribution Graph
 
 on:
   schedule:
-    # Runs every 6 hours
+    # প্রতি ৬ ঘণ্টা পর পর রান হবে
     - cron: "0 */6 * * *"
   
-  # Allows manual triggers from the Actions tab
+  # ম্যানুয়ালি রান করার জন্য
   workflow_dispatch:
   
-  # Triggers when code is pushed to the main branch
+  # main ব্রাঞ্চে কিছু push হলে রান করবে
   push:
     branches:
       - main
@@ -16,25 +16,31 @@ on:
 
 jobs:
   build:
+    name: Generate Dragon Activity Map
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # Generates the snake animation SVGs (Light & Dark mode)
-      - name: Generate contribution snake animation
+      # Snake-এর কালারগুলো ড্রাগনের মতো পরিবর্তন করে এবং থিম যুক্ত করে
+      - name: Generate dragon style SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: aspinchakma
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-dragon.svg
+            dist/github-dragon-dark.svg?palette=github-dark
+            # Dragon Fire / Volcanic theme
+            dist/github-dragon-volcano.svg?color_snake=#ff3d00&color_dots=#121212,#5e0a0a,#ac1313,#d73838,#ff6a39
+            # Mystic Dragon (Neon Blue/Green) theme
+            dist/github-dragon-mystic.svg?color_snake=#00fff2&color_dots=#161b22,#0f3630,#146b5a,#21b8a5,#2bffe1
 
-      # Pushes the generated SVGs to the 'output' branch automatically
-      - name: Push changes to output branch
+      # Generated file গুলো output নামের ব্রাঞ্চে push করবে
+      - name: Push dragon graphics to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
