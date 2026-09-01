@@ -1,14 +1,14 @@
-name: Generate Dragon Contribution Graph
+name: Generate Contribution Snake
 
 on:
   schedule:
-    # প্রতি ৬ ঘণ্টা পর পর রান হবে
+    # Runs automatically every 6 hours
     - cron: "0 */6 * * *"
   
-  # ম্যানুয়ালি রান করার জন্য
+  # Allows manual triggering from the Actions tab
   workflow_dispatch:
   
-  # main ব্রাঞ্চে কিছু push হলে রান করবে
+  # Runs on every push to main/master branch
   push:
     branches:
       - main
@@ -16,31 +16,30 @@ on:
 
 jobs:
   build:
-    name: Generate Dragon Activity Map
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      # Snake-এর কালারগুলো ড্রাগনের মতো পরিবর্তন করে এবং থিম যুক্ত করে
-      - name: Generate dragon style SVG
-        uses: Platane/snk/svg-only@v3
+      # Generates SVG & GIF with customized color themes
+      - name: Generate Snake Media
+        uses: Platane/snk@v3
         with:
           github_user_name: aspinchakma
           outputs: |
-            dist/github-dragon.svg
-            dist/github-dragon-dark.svg?palette=github-dark
-            # Dragon Fire / Volcanic theme
-            dist/github-dragon-volcano.svg?color_snake=#ff3d00&color_dots=#121212,#5e0a0a,#ac1313,#d73838,#ff6a39
-            # Mystic Dragon (Neon Blue/Green) theme
-            dist/github-dragon-mystic.svg?color_snake=#00fff2&color_dots=#161b22,#0f3630,#146b5a,#21b8a5,#2bffe1
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-ocean.svg?color_snake=#00f2fe&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-cyberpunk.svg?color_snake=#ff007f&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-snake.gif?color_snake=#7f00ff&color_dots=#ebedf0,#c084fc,#a855f7,#9333ea,#6b21a8
 
-      # Generated file গুলো output নামের ব্রাঞ্চে push করবে
-      - name: Push dragon graphics to output branch
+      # Automatically deploys the generated files to the 'output' branch
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
