@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Aspin Chakma 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+MERN+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;Building+Modern+%26+Scalable+Web+Applications;Turning+Ideas+Into+Interactive+Experiences;Always+Learning%2C+Building+%26+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+MERN+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;Building+Modern+%26+Scalable+Web+Applications;Turning+Ideas+Into+Interactive+Experiences;Always+Learning%2C+Building+%26+Improving" alt="Typing SVG" />
 </p>
 
 ---
