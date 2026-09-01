@@ -1,20 +1,185 @@
-<h1 align="center">Hi 👋, I'm Aspin Chakma</h1>
-<h3 align="center">A passionate MERN stack Developer.</h3>
+# Hi there 👋 I'm Aspin Chakma
 
-- 👨‍💻 All of my projects are available at [https://aspinchakma.netlify.app/](https://aspinchakma.netlify.app/)
+### MERN Stack Developer | React Enthusiast | Lifelong Learner
 
-- 📫 How to reach me **aspinchakma2019@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aspin-chakma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aspin-chakma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aspinchakma&show_icons=true&locale=en&layout=compact" alt="aspinchakma" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aspinchakma&show_icons=true&locale=en" alt="aspinchakma" /></p>
+- 💻 MERN Stack Developer from Bangladesh
+- 🌱 Currently exploring TypeScript, Advanced React, and Backend Architecture
+- 🔥 Passionate about building scalable web applications
+- 🎯 Goal: Become a Software Engineer at a global tech company
+- 📚 Consistently learning and improving problem-solving skills
+- ⚡ Love turning ideas into real-world products
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aspinchakma&" alt="aspinchakma" /></p>
+---
+
+## 🌐 Portfolio & Contact
+
+- 🌍 Portfolio: https://aspinchakma.netlify.app
+- 💼 LinkedIn: https://linkedin.com/in/aspin-chakma-446878225
+- 📧 Email: aspinchakma2019@gmail.com
+- 📍 Rangamati, Chittagong, Bangladesh
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database & Authentication
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 🚀 Featured Projects
+
+### 🕰️ Marotic — Online Watch Shop
+
+🔗 Live: https://marotic-7e06a.web.app
+
+#### Key Features
+
+- Authentication with Firebase
+- Admin Dashboard
+- Product Management
+- Order System
+- Responsive Design
+
+#### Tech Used
+
+React • Node.js • Express • MongoDB • Firebase
+
+---
+
+### 🍔 Foodota — Online Food Delivery Platform
+
+🔗 Live: https://foodota-c3eb8.web.app
+
+#### Key Features
+
+- Restaurant Management
+- User Authentication
+- Food Ordering
+- Admin Dashboard
+- Product Management
+
+#### Tech Used
+
+React • Node.js • Express • MongoDB • Firebase
+
+---
+
+### 💊 Medicine — Online Pharmacy Platform
+
+🔗 Live: https://pharmacy-60bec.web.app
+
+#### Key Features
+
+- Medicine Ordering System
+- Authentication
+- Responsive Interface
+- Real-Time Database
+
+#### Tech Used
+
+React • Node.js • Express • MongoDB • Firebase
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aspinchakma&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspinchakma&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspinchakma&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aspinchakma&theme=algolia&margin-w=15" />
+</p>
+
+---
+
+## 💡 Development Philosophy
+
+```text
+Write clean code.
+Build real solutions.
+Keep learning.
+Stay consistent.
+```
+
+---
+
+## 🎯 Current Goals
+
+- Learn Advanced TypeScript
+- Improve Backend Development Skills
+- Build Production-Ready MERN Applications
+- Master System Design Fundamentals
+- Contribute to Open Source
+
+---
+
+## 📚 Learning Journey
+
+```text
+2024 → Started Web Development
+2025 → Learned React & Firebase
+2026 → Building Full Stack MERN Applications
+2027 Goal → Software Engineer
+```
+
+---
+
+## ⚡ Fun Fact
+
+```javascript
+const aspin = {
+  code: ["JavaScript", "TypeScript"],
+  frontend: ["React", "Tailwind"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB"],
+  challenge: "Building impactful web applications",
+};
+```
+
+---
+
+### Thanks for visiting my profile 🚀
