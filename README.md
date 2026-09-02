@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 💻 **MERN Stack Developer** based in Bangladesh, focused on building performant web applications.
-- 📄 <font color="#0066CC"><b>Resume:</b></font> <a href="https://docs.google.com/document/d/1A7DvpLSaPE2lkjr_nSJfSfcAT0b3MkwuDqht7z-2WTc/edit?usp=sharing" target="_blank"><font color="#0066CC"><u>View / Download PDF Resume</u></font></a>
+- 📄 <font color="#0066CC"><b>Resume:</b></font> <a target="_blank" href="https://docs.google.com/document/d/1A7DvpLSaPE2lkjr_nSJfSfcAT0b3MkwuDqht7z-2WTc/edit?usp=sharing" target="_blank"><font color="#0066CC"><u>View / Download PDF Resume</u></font></a>
 - 🌱 **Currently Elevating:** TypeScript, Next.js, and Scalable Backend Architecture.
 - 🎯 **Career Focus:** Software Engineering roles (Full-time & Remote opportunities).
 - ⚡ **Core Strength:** Turning functional ideas into clean-coded, production-ready products.
