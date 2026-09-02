@@ -47,6 +47,10 @@
 
 **🔗 Links** | [🌐 Live Preview](https://icy-tales.netlify.app/) | [💻 Source Code](https://github.com/aspinchakma/icy-tales)
 
+<p align="center" style="">
+  <img src="./asset/project_1.png" style="border-radius: 4px;" alt="Icy Tales Banner" width="100%" />
+</p>
+
 #### ✨ Key Features
 
 - Dynamic product and blog routing with React Router
@@ -74,6 +78,10 @@
 ### 🛒 Gadget Heaven — Modern E-commerce Platform
 
 **🔗 Links** | [🌐 Live Preview](https://gadget-heaven-gadget.netlify.app/) | [💻 Source Code](https://github.com/aspinchakma/gadget-heaven)
+
+<p align="center" style="">
+  <img src="./asset/project_2.png" style="border-radius: 4px;" alt="Icy Tales Banner" width="100%" />
+</p>
 
 #### ✨ Key Features
 
