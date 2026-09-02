@@ -21,6 +21,20 @@
 
 ---
 
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://aspinchakma.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-111827?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/aspin-chakma" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aspinchakma2019@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge" alt="Email" />
+  </a>
+</p>
+
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -96,6 +110,59 @@ npm start
 ```
 
 Launch the local development server and visit the URL displayed in the terminal to explore the application.
+
+---
+
+### 🍔 Foodota — Online Food Delivery Platform
+
+**🔗 Links** | [🌐 Live Preview](https://foodota-c3eb8.web.app/) | [💻 Client Code](https://github.com/aspinchakma/FOODOTA_CLIENT) | [⚙️ Server Code](https://github.com/aspinchakma/FOODOTA_SERVER)
+
+<p align="center" style="">
+  <img src="./asset/project_3.png" style="border-radius: 4px;" alt="Foodota — Online Food Delivery Platform" width="100%" />
+</p>
+
+#### ✨ Key Features
+
+- Restaurant Management System
+- Food Ordering Workflow
+- User Authentication
+- Admin Dashboard
+- Responsive Design
+
+#### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+</p>
+
+#### 🚀 Run Locally
+
+**Client**
+
+```bash
+git clone https://github.com/aspinchakma/FOODOTA_CLIENT.git
+cd FOODOTA_CLIENT
+npm install
+npm run dev
+```
+
+**Server**
+
+```bash
+git clone https://github.com/aspinchakma/FOODOTA_SERVER.git
+cd FOODOTA_SERVER
+npm install
+npm start
+```
+
+Open the local URL displayed in the terminal to explore the application.
+
+---
 
 ### 🍦 Icy Tales — Modern React Single Page Application
 
@@ -182,57 +249,6 @@ npm run dev
 ```
 
 Launch the local development server and visit the URL displayed in the terminal to explore the application.
-
----
-
-### 🍔 Foodota — Online Food Delivery Platform
-
-**🔗 Links** | [🌐 Live Preview](https://foodota-c3eb8.web.app/) | [💻 Client Code](https://github.com/aspinchakma/FOODOTA_CLIENT) | [⚙️ Server Code](https://github.com/aspinchakma/FOODOTA_SERVER)
-
-<p align="center" style="">
-  <img src="./asset/project_3.png" style="border-radius: 4px;" alt="Foodota — Online Food Delivery Platform" width="100%" />
-</p>
-
-#### ✨ Key Features
-
-- Restaurant Management System
-- Food Ordering Workflow
-- User Authentication
-- Admin Dashboard
-- Responsive Design
-
-#### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-</p>
-
-#### 🚀 Run Locally
-
-**Client**
-
-```bash
-git clone https://github.com/aspinchakma/FOODOTA_CLIENT.git
-cd FOODOTA_CLIENT
-npm install
-npm run dev
-```
-
-**Server**
-
-```bash
-git clone https://github.com/aspinchakma/FOODOTA_SERVER.git
-cd FOODOTA_SERVER
-npm install
-npm start
-```
-
-Open the local URL displayed in the terminal to explore the application.
 
 ---
 
